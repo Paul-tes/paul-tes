@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paul-tes" alt="paul-tes" /></a> </p>
 
-- 🔭 I’m currently working on **CRM Web application**
+- 🔭 I’m currently working on **a CRM Web application**
 
-- 🌱 I’m currently learning **Nodejs, php, React, Ruby on Rails**
+- 🌱 I’m currently learning **Nodejs, PHP, React, Ruby on Rails**
 
 - 👨‍💻 All of my projects are available at [https://paul-tes.github.io/My-Portfolio/](https://paul-tes.github.io/My-Portfolio/)
 
 - 📫 How to reach me **paulasca8462@gmail.com**
 
-- ⚡ Fun fact **I play piano and Guitar.**
+- ⚡ Fun fact: **I play piano and guitar.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
