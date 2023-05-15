@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Paul</h1>
 <h3 align="center">I'm a junior software engineer and an aspiring full-stack web developer.</h3>
 
+- Welcome to my account, feel free to check out any projects I've been working on.
+
 - 🔭 I’m currently working on **a CRM Web application**
 
 - 🌱 I’m currently learning **Nodejs, PHP, React, Ruby on Rails**
