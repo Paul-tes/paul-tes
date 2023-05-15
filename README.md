@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paul</h1>
-<h3 align="center">A passionate backend developer from Ethiopia</h3>
+<h3 align="center">I'm a junior software engineer and an aspiring full-stack web developer.</h3>
 
 - 🔭 I’m currently working on **a CRM Web application**
 
