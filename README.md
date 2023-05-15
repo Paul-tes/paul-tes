@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paul</h1>
 <h3 align="center">A passionate backend developer from Ethiopia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paul-tes&label=Profile%20views&color=0e75b6&style=flat" alt="paul-tes" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paul-tes" alt="paul-tes" /></a> </p>
-
 - 🔭 I’m currently working on **a CRM Web application**
 
 - 🌱 I’m currently learning **Nodejs, PHP, React, Ruby on Rails**
@@ -14,6 +10,11 @@
 - 📫 How to reach me **paulasca8462@gmail.com**
 
 - ⚡ Fun fact: **I play piano and guitar.**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=paul-tes&label=Profile%20views&color=0e75b6&style=flat" alt="paul-tes" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paul-tes" alt="paul-tes" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
