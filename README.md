@@ -30,3 +30,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paul-tes&show_icons=true&locale=en" alt="paul-tes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paul-tes&" alt="paul-tes" /></p>
+
+[![Paul's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Paul-tes&theme=gotham&area=true&hide_border=true)](https://github.com/Paul-tes/github-readme-activity-graph)
+
