@@ -17,7 +17,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paul-tes&label=Profile%20views&color=0e75b6&style=flat" alt="paul-tes" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paul-tes" alt="paul-tes" /></a> </p>
+[![](https://github-readme-activity-graph.vercel.app/graph?username=paul-tes&theme=gotham)](https://github.com/paul-tes/github-readme-activity-graph)
 
 
 <h3 align="left">Connect with me:</h3>
