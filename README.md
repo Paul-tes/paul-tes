@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paul</h1>
 <h3 align="center">I'm a junior software engineer and an aspiring full-stack web developer.</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=14FF15&background=000000&width=1200&lines=Waiting...To...You....;Bring+Your+Coffee;Let's+talk+code)](https://git.io/typing-svg)
-
 - Welcome to my account, feel free to check out any projects I've been working on.
 
 - 🔭 I’m currently working on **a CRM Web application**
