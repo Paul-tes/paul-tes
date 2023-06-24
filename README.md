@@ -13,9 +13,9 @@
 
 - ⚡ Fun fact: **I play piano and guitar.**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paul-tes&label=Profile%20views&color=0e75b6&style=flat" alt="paul-tes" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=paul-tes&label=Profile%20views&color=0e75b6&style=flat" alt="paul-tes" /> </p
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=paul-tes&theme=gotham)](https://github.com/paul-tes/github-readme-activity-graph)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paul-tes" alt="Paul" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -34,5 +34,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paul-tes&" alt="paul-tes" /></p>
 
-[![Paul's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Paul-tes&theme=gotham&area=true&hide_border=true)](https://github.com/Paul-tes/github-readme-activity-graph)
 
+[![](https://github-readme-activity-graph.vercel.app/graph?username=paul-tes&theme=gotham)](https://github.com/paul-tes/github-readme-activity-graph)
